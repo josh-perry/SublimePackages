@@ -1,0 +1,29 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-materia.tmTheme",
+	"enable_tab_scrolling": false,
+	"font_face": "DejaVu Sans Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 14,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Python",
+		"Vintage"
+	],
+	"open-sesame.projects_path": "G:\\Quick Projects",
+	"remember_open_files": false,
+	"scroll_past_end": false,
+	"spacegray_fileicons": true,
+	"spacegray_sidebar_font_xlarge": true,
+	"spacegray_sidebar_tree_xlarge": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_normal": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

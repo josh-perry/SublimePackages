@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Atomic Color Scheme",
+		"Base16 Color Schemes",
+		"Color Highlighter",
+		"ColorPicker",
+		"Corona Editor",
+		"GotoDocumentation",
+		"Lua Love",
+		"MagicPython",
+		"MiniPy",
+		"OmniSharp",
+		"open-sesame",
+		"orgmode",
+		"Package Control",
+		"PackageSync",
+		"Python Breakpoints",
+		"ScopeHunter",
+		"SideBarEnhancements",
+		"Status Bar File Size",
+		"SublimeLove",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Spacegray",
+		"TypeScript",
+		"Unity Completions",
+		"Unity Shader",
+		"Unity3D",
+		"Zen Tabs"
+	]
+}
